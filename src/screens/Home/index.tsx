@@ -68,3 +68,4 @@ export function Home() {
 // Libs usadas neste projeto
 //https://github.com/kristerkari/react-native-svg-transformer
 //yarn add react-native-responsive-fontsize
+//yarn add -D typescript @types/react @types/react-native

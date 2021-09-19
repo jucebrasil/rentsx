@@ -29,6 +29,9 @@ import {
   Footer
 } from './styles';
 
+
+
+
 export function CarDetails() {
   return (
     <Container>
